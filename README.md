@@ -14,6 +14,9 @@ Python is mainly for running multiplatform scripts and for simple tasks like dat
 
 ## Main Projects
 
+### [Interpreted Language](https://github.com/elaiacamara/cafe) (Work in progress)
+A language written and interpreted in java. Using it to learn Java and how languages work.
+
 ### [Graphics Library](https://github.com/elaiacamara/lumir) (Work in progress (paused))
 A c++23 graphics library that abstracts opengl (vulkan in the future) to make simple graphics application faster. Its mainly for learning purposes and personal use only.
 ### [Build/Dependency manager](https://github.com/elaiacamara/core) (Work in progress (paused))
